@@ -1,2 +1,2 @@
 # CIS1250-jml9421
-My first repository
+My repository for CIS1250 labs
